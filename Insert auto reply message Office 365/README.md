@@ -3,7 +3,7 @@ Author:	Pham Hoai Nam <phamhoainam1215@gmail.com>
 #
 Date created:	25/Apr/2017
 #
-#Purpose: Insert auto reply message for users with Auto Reply State is Disabled
+# Purpose: Insert auto reply message for users with Auto Reply State is Disabled
 1. Open script by notepad and edit:
    -	Username and Password admin(domain).
    -	Auto reply message
